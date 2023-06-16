@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uma Thakur</h1>
 <h3 align="center">Student At Vishwakarma Institute Of Technology</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanushkayadav&psig=AOvVaw0P0rD5OrzMb8ay0nSviYCJ&ust=1687014292130000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCe0JCIyP8CFQAAAAAdAAAAABA_"> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uma thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uma thakur" height="30" width="40" /></a>
